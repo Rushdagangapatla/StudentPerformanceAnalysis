@@ -3,15 +3,15 @@
 A Machine Learning project to analyze and predict student exam scores based on study hours using Python, pandas, matplotlib, and scikit-learn.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Results](#results)
-- [Evaluation](#evaluation)
-- [Customize Prediction](#customize-prediction)
-- [License](#license)
+- [Overview] (#overview)
+- [Dataset] (#dataset)
+- [Project Structure] (#project-structure)
+- [Installation & Setup] (#installation--setup)
+- [Usage] (#usage)
+- [Results] (#results)
+- [Evaluation] (#evaluation)
+- [Customize Prediction] (#customize-prediction)
+- [License] (#license)
 
 ---
 
