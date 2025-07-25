@@ -90,6 +90,7 @@ Two visualizations: scatter plot & regression line
 
 The model is evaluated using:
 mean_squared_error(y_test, y_pred)
+
 Lower MSE values indicate a better fit.
 
 ✏️ Customize Prediction
