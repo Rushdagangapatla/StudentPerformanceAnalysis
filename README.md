@@ -60,7 +60,7 @@ RUN
 
     python student_performance_predictor.py
 
-The script will:
+This is how output looks:
 
 -->Load and display the first 5 rows of data
 
